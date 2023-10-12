@@ -64,7 +64,7 @@ function buscarProductoPorNombre(nombre) {
   }
   
   // Función para simular una compra
-  function simularCompra() {
+  function simularCompra2() {
     // ...
   
     while (true) {
@@ -101,3 +101,7 @@ function buscarProductoPorNombre(nombre) {
 
 // Iniciar la simulación de compra
 simularCompra();
+
+// Iniciar la simulación de compra 2
+
+simularCompra2();
